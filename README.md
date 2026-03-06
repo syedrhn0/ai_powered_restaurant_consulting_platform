@@ -57,9 +57,7 @@ http://localhost:8501
 ```
 
 ### Optional — EDA Notebook
-```bash
-jupyter notebook EDA.ipynb
-```
+
 Run all cells to see data exploration, 12 charts, and feature engineering walkthrough.
 
 ---
@@ -75,8 +73,3 @@ Run all cells to see data exploration, 12 charts, and feature engineering walkth
 
 ## 🏙️ Cities Covered
 Mumbai · Delhi · Bangalore · Hyderabad · Pune · Chennai · Kolkata
-
----
-
-## 👨‍💻 Author
-**[Your Name]** | [Institute Name] | Data Science Capstone | [Year]
