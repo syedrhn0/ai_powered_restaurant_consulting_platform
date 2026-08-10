@@ -48,7 +48,6 @@ AI-Restaurant-Consulting/
 │   ├── home_page.png
 │   ├── location_prediction.png
 │   ├── cuisine_prediction.png
-│   └── dashboard.png
 │
 ├── app.py
 ├── model_building.py
