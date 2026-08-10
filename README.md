@@ -14,17 +14,10 @@ Predicts the most suitable cuisine for a selected city and area using market com
 
 ## 🖼️ Application Screenshots
 
-### Home Page
-![Home Page](screenshots/home_page.png)
-
-### Best Location Prediction
-![Best Location](screenshots/location_prediction.png)
-
-### Best Cuisine Prediction
-![Best Cuisine](screenshots/cuisine_prediction.png)
-
-### Recommendation Dashboard
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/home_page.png" width="45%" />
+  <img src="screenshots/cuisine_prediction.png" width="45%" />
+</p>
 
 ---
 
